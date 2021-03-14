@@ -1,0 +1,159 @@
+[2021-03-13 14:05:39] [INFO] => ==ver_5== 
+
+[2021-03-13 14:05:44] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 14:06:07] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 14:06:44] [INFO] => ==ver_5== 
+
+[2021-03-13 14:06:50] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 14:06:55] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 14:07:03] [INFO] => ==ver_5== run_cat_boost_single=True cat_features_model_ver=1
+[2021-03-13 14:11:30] [INFO] => ==ver_5== 
+
+[2021-03-13 14:11:36] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 14:11:41] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 14:11:49] [INFO] => ==ver_5== run_cat_boost_single=True cat_features_model_ver=1
+[2021-03-13 14:11:49] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 14:18:04] [INFO] => ==ver_5== **********RESULT********** MAPE=0.008594
+[2021-03-13 18:02:54] [INFO] => ==ver_5== 
+
+[2021-03-13 18:03:06] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:03:11] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:03:19] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:07:01] [INFO] => ==ver_5== 
+
+[2021-03-13 18:07:06] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:07:11] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:07:18] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:07:19] [INFO] => ==ver_5== run_cat_boost_single=False cat_features_model_ver=1 
+    run_cat_boost_cross_validation=True
+[2021-03-13 18:36:23] [INFO] => ==ver_5== 
+
+[2021-03-13 18:36:29] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:36:33] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:36:40] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:36:41] [INFO] => ==ver_5== run_cat_boost_single=False cat_features_model_ver=1 
+    run_cat_boost_cross_validation=True
+[2021-03-13 18:38:08] [INFO] => ==ver_5== **********RESULT********** fold=1 MAPE=inf
+[2021-03-13 18:39:43] [INFO] => ==ver_5== 
+
+[2021-03-13 18:39:48] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:39:53] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:40:01] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:40:02] [INFO] => ==ver_5== run_cat_boost_single=False cat_features_model_ver=1 
+    run_cat_boost_cross_validation=True
+[2021-03-13 18:44:49] [INFO] => ==ver_5== 
+
+[2021-03-13 18:44:54] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:44:59] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:45:06] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:45:07] [INFO] => ==ver_5== run_cat_boost_single=False cat_features_model_ver=1 
+    run_cat_boost_cross_validation=True
+[2021-03-13 18:46:12] [INFO] => ==ver_5== **********RESULT********** fold=1 MAPE=134429.444974
+[2021-03-13 18:50:32] [INFO] => ==ver_5== 
+
+[2021-03-13 18:50:37] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 18:50:41] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 18:50:49] [INFO] => ==ver_5== run_y_log_processing=True
+[2021-03-13 18:50:50] [INFO] => ==ver_5== run_cat_boost_single=False cat_features_model_ver=1 
+    run_cat_boost_cross_validation=True
+[2021-03-13 18:52:50] [INFO] => ==ver_5== **********RESULT********** fold=1 MAPE=0.118564
+[2021-03-13 18:55:15] [INFO] => ==ver_5== **********RESULT********** fold=2 MAPE=0.115433
+[2021-03-13 18:57:34] [INFO] => ==ver_5== **********RESULT********** fold=3 MAPE=0.120005
+[2021-03-13 18:59:53] [INFO] => ==ver_5== **********RESULT********** fold=4 MAPE=0.120829
+[2021-03-13 19:02:18] [INFO] => ==ver_5== **********RESULT********** fold=5 MAPE=0.119775
+[2021-03-13 21:38:23] [INFO] => ==ver_5== 
+
+[2021-03-13 21:38:29] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 21:38:37] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 21:42:03] [INFO] => ==ver_5== run_random_forest_regressor=True
+[2021-03-13 21:42:33] [INFO] => ==ver_5== 
+
+[2021-03-13 21:42:38] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 21:42:45] [INFO] => ==ver_5== model_ver_remain_columns=1
+[2021-03-13 22:33:52] [INFO] => ==ver_9== 
+
+[2021-03-13 22:33:57] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:34:04] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:34:57] [INFO] => ==ver_9== 
+
+[2021-03-13 22:35:02] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:35:09] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:35:42] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-13 22:35:45] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-13 22:35:55] [INFO] => ==ver_9== 
+
+[2021-03-13 22:36:00] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:36:07] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:36:15] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-13 22:36:39] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-13 22:36:47] [INFO] => ==ver_9== 
+
+[2021-03-13 22:36:52] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:36:59] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:37:07] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-13 22:37:08] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-13 22:37:12] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-13 22:38:59] [INFO] => ==ver_9== 
+
+[2021-03-13 22:39:05] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:39:12] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:39:20] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-13 22:39:21] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-13 22:39:25] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-13 22:41:28] [INFO] => ==ver_9== 
+
+[2021-03-13 22:41:33] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-13 22:41:39] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-13 22:41:48] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-13 22:41:48] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-13 22:41:53] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-13 22:42:16] [INFO] => ==ver_9== run_random_forest_regressor=True
+[2021-03-13 22:56:13] [INFO] => ==ver_9== run_random_forest_regressor=True
+[2021-03-13 22:56:13] [INFO] => ==ver_9== **********RESULT********** MAPE=inf
+[2021-03-14 16:54:57] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 17:13:31] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 17:15:14] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 18:04:06] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 19:28:13] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 19:44:16] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 19:45:06] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 19:52:22] [INFO] => ==ver_9== 
+
+[2021-03-14 19:52:28] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 19:52:33] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-14 19:52:41] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-14 19:52:42] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-14 19:52:46] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-14 19:53:11] [INFO] => ==ver_9== run_random_forest_regressor=True
+[2021-03-14 19:53:11] [INFO] => ==ver_9== **********RESULT********** MAPE=0.126222
+[2021-03-14 20:04:10] [INFO] => ==ver_9== 
+
+[2021-03-14 20:04:16] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 20:04:21] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-14 20:04:30] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-14 20:04:30] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-14 20:04:31] [INFO] => ==ver_9== run_y_log_processing=True
+[2021-03-14 20:04:34] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-14 20:09:47] [INFO] => ==ver_9== 
+
+[2021-03-14 20:09:53] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 20:09:57] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-14 20:10:05] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-14 20:10:05] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-14 20:10:06] [INFO] => ==ver_9== run_y_log_processing=True
+[2021-03-14 20:10:08] [INFO] => ==ver_9== run_random_forest_regressor=True cat_features_model_ver=1
+[2021-03-14 20:10:30] [INFO] => ==ver_9== run_random_forest_regressor=True
+[2021-03-14 20:10:30] [INFO] => ==ver_9== **********RESULT********** MAPE=0.008216
+[2021-03-14 20:42:44] [INFO] => ==ver_9== 
+
+[2021-03-14 20:42:49] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 20:42:54] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-14 20:43:01] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-14 20:43:02] [INFO] => ==ver_9== run_y_log_processing=True
+[2021-03-14 20:47:27] [INFO] => ==ver_9== 
+
+[2021-03-14 20:47:33] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 20:47:39] [INFO] => ==ver_9== model_ver_remain_columns=1
+[2021-03-14 20:47:46] [INFO] => ==ver_9== cat_features_model_ver=1
+[2021-03-14 20:47:46] [INFO] => ==ver_9== run_cat_columns_encoding=True
+[2021-03-14 20:47:47] [INFO] => ==ver_9== run_y_log_processing=True
