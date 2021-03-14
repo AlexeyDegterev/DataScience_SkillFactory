@@ -157,3 +157,94 @@
 [2021-03-14 20:47:46] [INFO] => ==ver_9== cat_features_model_ver=1
 [2021-03-14 20:47:46] [INFO] => ==ver_9== run_cat_columns_encoding=True
 [2021-03-14 20:47:47] [INFO] => ==ver_9== run_y_log_processing=True
+[2021-03-14 22:42:19] [INFO] => ==ver_10== 
+
+[2021-03-14 22:42:24] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:42:29] [INFO] => ==ver_10== model_ver_remain_columns=1
+[2021-03-14 22:42:36] [INFO] => ==ver_10== cat_features_model_ver=1
+[2021-03-14 22:42:36] [INFO] => ==ver_10== run_cat_columns_encoding=True
+[2021-03-14 22:42:37] [INFO] => ==ver_10== run_y_log_processing=True
+[2021-03-14 22:43:33] [INFO] => ==ver_10== 
+
+[2021-03-14 22:43:39] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:43:43] [INFO] => ==ver_10== model_ver_remain_columns=1
+[2021-03-14 22:43:50] [INFO] => ==ver_10== cat_features_model_ver=1
+[2021-03-14 22:43:51] [INFO] => ==ver_10== run_cat_columns_encoding=True
+[2021-03-14 22:43:52] [INFO] => ==ver_10== run_y_log_processing=True
+[2021-03-14 22:45:03] [INFO] => ==ver_10== 
+
+[2021-03-14 22:45:08] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:45:25] [INFO] => ==ver_10== 
+
+[2021-03-14 22:45:31] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:45:35] [INFO] => ==ver_10== model_ver_remain_columns=1
+[2021-03-14 22:45:42] [INFO] => ==ver_10== cat_features_model_ver=1
+[2021-03-14 22:45:43] [INFO] => ==ver_10== run_y_log_processing=True
+[2021-03-14 22:46:18] [INFO] => ==ver_10== 
+
+[2021-03-14 22:46:24] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:46:29] [INFO] => ==ver_10== model_ver_remain_columns=1
+[2021-03-14 22:46:36] [INFO] => ==ver_10== cat_features_model_ver=1
+[2021-03-14 22:46:37] [INFO] => ==ver_10== run_y_log_processing=True
+[2021-03-14 22:53:26] [INFO] => ==ver_10== 
+
+[2021-03-14 22:53:32] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 22:53:36] [INFO] => ==ver_10== model_ver_remain_columns=1
+[2021-03-14 22:53:42] [INFO] => ==ver_10== cat_features_model_ver=1
+[2021-03-14 22:53:43] [INFO] => ==ver_10== run_y_log_processing=True
+[2021-03-14 23:03:14] [INFO] => ==ver_10== **********RESULT********** MAPE=0.007877
+[2021-03-14 23:30:38] [INFO] => ==ver_11== 
+
+[2021-03-14 23:30:43] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 23:30:47] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-14 23:30:56] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-14 23:30:57] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-14 23:35:20] [INFO] => ==ver_11== 
+
+[2021-03-14 23:35:25] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 23:35:30] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-14 23:35:39] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-14 23:35:40] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-14 23:37:10] [INFO] => ==ver_11== 
+
+[2021-03-14 23:37:16] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 23:37:21] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-14 23:37:29] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-14 23:37:30] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-14 23:39:08] [INFO] => ==ver_11== 
+
+[2021-03-14 23:39:13] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 23:39:18] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-14 23:45:33] [INFO] => ==ver_11== **********RESULT********** MAPE=0.007889
+[2021-03-14 23:47:38] [INFO] => ==ver_11== 
+
+[2021-03-14 23:47:43] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-14 23:47:48] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-14 23:47:58] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-14 23:48:00] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-14 23:58:15] [INFO] => ==ver_11== **********RESULT********** MAPE=0.007849
+[2021-03-14 23:58:59] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-14 23:58:59] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:08:13] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:08:13] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:12:09] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:12:09] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:13:12] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:13:12] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:17:39] [INFO] => ==ver_11== 
+
+[2021-03-15 00:17:46] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-15 00:17:50] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-15 00:17:57] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:17:57] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:18:01] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-15 00:18:02] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-15 00:18:54] [INFO] => ==ver_11== 
+
+[2021-03-15 00:18:59] [INFO] => NumExpr defaulting to 8 threads.
+[2021-03-15 00:19:04] [INFO] => ==ver_11== model_ver_remain_columns=1
+[2021-03-15 00:19:10] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:19:10] [INFO] => Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+[2021-03-15 00:19:14] [INFO] => ==ver_11== cat_features_model_ver=1
+[2021-03-15 00:19:15] [INFO] => ==ver_11== run_y_log_processing=True
+[2021-03-15 00:32:01] [INFO] => ==ver_11== **********RESULT********** MAPE=0.007903
